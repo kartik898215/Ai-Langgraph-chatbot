@@ -11,6 +11,6 @@ sentence-transformers
 huggingface-hub
 transformers
 pypdf
-duckduckgo-search
+duckduckgo-search==5.3.1
 requests
 langgraph-checkpoint-sqlite
