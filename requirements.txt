@@ -1,0 +1,16 @@
+streamlit
+langchain
+langchain-core
+langchain-openai
+langchain-community
+langgraph
+openai
+python-dotenv
+faiss-cpu
+sentence-transformers
+huggingface-hub
+transformers
+pypdf
+duckduckgo-search
+requests
+langgraph-checkpoint-sqlite
