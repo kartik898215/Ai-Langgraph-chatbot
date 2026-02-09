@@ -12,5 +12,7 @@ huggingface-hub
 transformers
 pypdf
 duckduckgo-search==5.3.1
+ddgs
 requests
 langgraph-checkpoint-sqlite
+
